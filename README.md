@@ -1,4 +1,4 @@
-# pongGame
+# PongGame
 
 Pong Game .
 Build with Python.
